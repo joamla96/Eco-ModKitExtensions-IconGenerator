@@ -1,13 +1,1 @@
-!Assets/
-Eco.Client.csproj
-Editor.EcoModKit.csproj
-Editor.VoxelEngine.csproj
-IconGenerator.sln
-Library/
-Logs/
-Packages/
-ProjectSettings/
-Temp/
-UserSettings/
-
 .gitignore.bak
