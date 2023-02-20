@@ -1,16 +1,4 @@
-Assets/*
-!Assets/**/
-
-Assets/EcoModKit/*
-!Assets/EcoModKit/**/
-
-Assets/EcoModKit/Scripts/*
-!Assets/EcoModKit/Scripts/**/
-
-
-Assets/EcoModKit/Scripts/Editor/*
-!Assets/EcoModKit/Scripts/Editor/**/
-
+!Assets/
 Eco.Client.csproj
 Editor.EcoModKit.csproj
 Editor.VoxelEngine.csproj
@@ -21,3 +9,5 @@ Packages/
 ProjectSettings/
 Temp/
 UserSettings/
+
+.gitignore.bak
