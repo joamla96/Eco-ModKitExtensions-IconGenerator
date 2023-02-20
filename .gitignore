@@ -1,5 +1,15 @@
 Assets/*
-!Assets/EcoModKit/Scripts/Editor/Extensions/
+!Assets/**/
+
+Assets/EcoModKit/*
+!Assets/EcoModKit/**/
+
+Assets/EcoModKit/Scripts/*
+!Assets/EcoModKit/Scripts/**/
+
+
+Assets/EcoModKit/Scripts/Editor/*
+!Assets/EcoModKit/Scripts/Editor/**/
 
 Eco.Client.csproj
 Editor.EcoModKit.csproj
