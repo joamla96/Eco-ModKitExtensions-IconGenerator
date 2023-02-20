@@ -12,3 +12,6 @@ Edit the strings at the top, to fit your project.
 - `_iconsFiletype`: file extension of your images
 - `_iconPrefix`: prefix your icons with some text to make them unique to your project
 - `_iconSuffix`: suffix your icons with some text, should allways end with Image.
+
+Once installed, the tool is accessable via the menu inside the editor under
+ModKit > Tools > Generate Icons
