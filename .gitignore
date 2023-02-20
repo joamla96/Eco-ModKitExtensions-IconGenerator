@@ -1,0 +1,13 @@
+Assets/*
+!Assets/EcoModKit/Scripts/Editor/Extensions/
+
+Eco.Client.csproj
+Editor.EcoModKit.csproj
+Editor.VoxelEngine.csproj
+IconGenerator.sln
+Library/
+Logs/
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
