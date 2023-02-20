@@ -14,4 +14,4 @@ Edit the strings at the top, to fit your project.
 - `_iconSuffix`: suffix your icons with some text, should allways end with Image.
 
 Once installed, the tool is accessable via the menu inside the editor under
-ModKit > Tools > Generate Icons
+`ModKit > Tools > Generate Icons`
