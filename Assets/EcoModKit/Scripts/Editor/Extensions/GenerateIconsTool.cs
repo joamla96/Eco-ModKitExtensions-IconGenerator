@@ -24,7 +24,7 @@ namespace Eco.Client
         private static readonly string _iconPrefix = "RoadSign";
         private static readonly string _iconSuffix = "Image";
 
-        [MenuItem("Tools/Generate Icons")]
+        [MenuItem("ModKit/Tools/Generate Icons")]
         private static void GenerateIcons()
         {
             var icons = ImportIcons();
